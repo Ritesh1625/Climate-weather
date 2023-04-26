@@ -4,7 +4,7 @@ import axios from "axios";
 import Head from "./Head";
 import Weacondtion from "./Weacondtion";
 function App() {
-  const APIkey = "debac29e57b309139e6e1c66b984ee2b";
+  const APIkey = "20dbeea5ebdf6617dbfbf3235d78405b";
   const [data, setData] = useState();
   const [city, setCity] = useState("");
 
